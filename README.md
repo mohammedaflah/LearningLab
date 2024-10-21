@@ -1,2 +1,2 @@
-# Learning Lab :)
+# Learning Lab
 
